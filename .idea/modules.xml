@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/My-Maven-Assignment(1).iml" filepath="$PROJECT_DIR$/.idea/My-Maven-Assignment(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-Maven-Assignment/my-project.iml" filepath="$PROJECT_DIR$/My-Maven-Assignment/my-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-Maven-Assignment/service/service.iml" filepath="$PROJECT_DIR$/My-Maven-Assignment/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-Maven-Assignment/webApp/webApp.iml" filepath="$PROJECT_DIR$/My-Maven-Assignment/webApp/webApp.iml" />
+    </modules>
+  </component>
+</project>
